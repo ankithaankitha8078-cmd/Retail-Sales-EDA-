@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Total_Sales,Payment_Method,City
+ORD0001,2025-05-06,Smartphone,Electronics,1,26000,26000,Credit Card,Mysuru
+ORD0002,2025-10-30,Smartphone,Electronics,5,16400,82000,Cash,Bengaluru
+ORD0003,2025-04-30,Laptop,Electronics,1,56100,56100,Net Banking,Coimbatore
+ORD0004,2025-11-29,Laptop,Electronics,5,55100,275500,Net Banking,Pune
+ORD0005,2025-05-23,Keyboard,Accessories,4,2300,9200,UPI,Mysuru
+ORD0006,2025-03-21,Notebook,Stationery,3,140,420,Credit Card,Hyderabad
+ORD0007,2025-02-19,Smartphone,Electronics,1,31400,31400,Debit Card,Hyderabad
+ORD0008,2025-08-24,Mouse,Accessories,3,400,1200,Net Banking,Mangaluru
+ORD0009,2025-11-18,Notebook,Stationery,1,140,140,Net Banking,Hyderabad
+ORD0010,2025-01-24,Mouse,Accessories,2,500,1000,Credit Card,Chennai
+ORD0011,2025-07-14,Smartphone,Electronics,2,17100,34200,Debit Card,Delhi
+ORD0012,2025-07-01,Desk,Furniture,2,8700,17400,Credit Card,Chennai
+ORD0013,2025-03-29,Smartphone,Electronics,5,44500,222500,Net Banking,Mumbai
+ORD0014,2025-05-19,Headphones,Accessories,4,3200,12800,Net Banking,Mumbai
+ORD0015,2025-01-17,Desk,Furniture,1,6900,6900,Debit Card,Pune
+ORD0016,2025-10-18,Office Chair,Furniture,1,6200,6200,Debit Card,Mumbai
+ORD0017,2025-08-23,Backpack,Accessories,4,2700,10800,Credit Card,Chennai
+ORD0018,2025-10-03,Headphones,Accessories,2,4300,8600,Debit Card,Coimbatore
+ORD0019,2025-07-05,Notebook,Stationery,5,140,700,Credit Card,Mysuru
+ORD0020,2025-01-25,Water Bottle,Lifestyle,4,300,1200,UPI,Mysuru
+ORD0021,2025-02-02,Headphones,Accessories,4,4600,18400,Cash,Pune
+ORD0022,2025-10-11,Mouse,Accessories,4,1100,4400,UPI,Mangaluru
+ORD0023,2025-02-27,Water Bottle,Lifestyle,3,700,2100,Debit Card,Pune
+ORD0024,2025-05-15,Headphones,Accessories,4,800,3200,Net Banking,Mysuru
+ORD0025,2025-11-24,Water Bottle,Lifestyle,1,600,600,Net Banking,Coimbatore
+ORD0026,2025-03-24,Keyboard,Accessories,2,1600,3200,Net Banking,Kochi
+ORD0027,2025-09-08,Laptop,Electronics,5,61500,307500,UPI,Mangaluru
+ORD0028,2025-01-30,Desk,Furniture,3,7000,21000,Credit Card,Coimbatore
+ORD0029,2025-02-05,Smartphone,Electronics,1,36800,36800,Net Banking,Mysuru
+ORD0030,2025-03-26,Headphones,Accessories,4,4300,17200,Debit Card,Kochi
+ORD0031,2025-10-04,Mouse,Accessories,4,900,3600,Credit Card,Chennai
+ORD0032,2025-09-22,Notebook,Stationery,3,140,420,Cash,Mangaluru
+ORD0033,2025-06-23,Keyboard,Accessories,2,700,1400,UPI,Coimbatore
+ORD0034,2025-01-04,Water Bottle,Lifestyle,2,500,1000,UPI,Bengaluru
+ORD0035,2025-06-19,Keyboard,Accessories,1,600,600,UPI,Kochi
+ORD0036,2025-04-20,Keyboard,Accessories,3,2000,6000,Net Banking,Mysuru
+ORD0037,2025-05-05,Mouse,Accessories,5,1800,9000,Cash,Pune
+ORD0038,2025-12-04,Keyboard,Accessories,1,800,800,Cash,Hyderabad
+ORD0039,2025-01-28,Notebook,Stationery,4,140,560,UPI,Bengaluru
+ORD0040,2025-05-08,Notebook,Stationery,3,40,120,Credit Card,Mumbai
+ORD0041,2025-08-05,Water Bottle,Lifestyle,4,400,1600,Credit Card,Chennai
+ORD0042,2025-08-15,Backpack,Accessories,2,900,1800,Net Banking,Mangaluru
+ORD0043,2025-02-17,Laptop,Electronics,5,45700,228500,Credit Card,Mysuru
+ORD0044,2025-04-20,Notebook,Stationery,4,140,560,Cash,Bengaluru
+ORD0045,2025-07-19,Headphones,Accessories,4,800,3200,Debit Card,Delhi
+ORD0046,2025-12-05,Office Chair,Furniture,4,10600,42400,Cash,Mysuru
+ORD0047,2025-01-30,Keyboard,Accessories,3,1100,3300,Net Banking,Kochi
+ORD0048,2025-01-26,Laptop,Electronics,3,47900,143700,Net Banking,Delhi
+ORD0049,2025-01-30,Water Bottle,Lifestyle,5,400,2000,Net Banking,Mangaluru
+ORD0050,2025-02-04,Headphones,Accessories,1,4600,4600,Credit Card,Pune
+ORD0051,2025-10-24,Smartphone,Electronics,5,24600,123000,Net Banking,Bengaluru
+ORD0052,2025-12-03,Mouse,Accessories,1,1600,1600,Net Banking,Coimbatore
+ORD0053,2025-04-15,Water Bottle,Lifestyle,3,600,1800,Debit Card,Mumbai
+ORD0054,2025-12-10,Office Chair,Furniture,4,5100,20400,Debit Card,Delhi
+ORD0055,2025-08-23,Desk,Furniture,1,4100,4100,Net Banking,Coimbatore
+ORD0056,2025-04-20,Smartphone,Electronics,1,39500,39500,Net Banking,Chennai
+ORD0057,2025-05-06,Headphones,Accessories,3,1200,3600,Debit Card,Chennai
+ORD0058,2025-12-27,Headphones,Accessories,4,4200,16800,Debit Card,Coimbatore
+ORD0059,2025-06-03,Water Bottle,Lifestyle,1,1000,1000,UPI,Mysuru
+ORD0060,2025-10-11,Office Chair,Furniture,1,4800,4800,Credit Card,Chennai
+ORD0061,2025-06-25,Office Chair,Furniture,5,6100,30500,Credit Card,Chennai
+ORD0062,2025-01-27,Water Bottle,Lifestyle,4,600,2400,UPI,Pune
+ORD0063,2025-06-20,Office Chair,Furniture,1,3500,3500,Credit Card,Chennai
+ORD0064,2025-12-28,Headphones,Accessories,4,4300,17200,Cash,Kochi
+ORD0065,2025-12-20,Laptop,Electronics,1,48800,48800,Credit Card,Kochi
+ORD0066,2025-10-10,Laptop,Electronics,3,74800,224400,Credit Card,Pune
+ORD0067,2025-07-06,Headphones,Accessories,1,2700,2700,UPI,Hyderabad
+ORD0068,2025-07-01,Keyboard,Accessories,2,800,1600,Net Banking,Pune
+ORD0069,2025-03-25,Mouse,Accessories,2,1000,2000,Credit Card,Pune
+ORD0070,2025-07-30,Laptop,Electronics,2,62000,124000,Credit Card,Chennai
+ORD0071,2025-01-20,Headphones,Accessories,1,3200,3200,Cash,Mumbai
+ORD0072,2025-06-06,Keyboard,Accessories,4,1600,6400,Credit Card,Mumbai
+ORD0073,2025-06-18,Laptop,Electronics,2,65400,130800,Debit Card,Mangaluru
+ORD0074,2025-09-18,Office Chair,Furniture,3,11700,35100,Cash,Kochi
+ORD0075,2025-05-14,Desk,Furniture,1,5400,5400,Credit Card,Coimbatore
+ORD0076,2025-11-02,Office Chair,Furniture,1,4800,4800,Cash,Hyderabad
+ORD0077,2025-09-19,Desk,Furniture,4,11700,46800,UPI,Pune
+ORD0078,2025-01-23,Mouse,Accessories,2,1100,2200,Cash,Bengaluru
+ORD0079,2025-07-06,Water Bottle,Lifestyle,5,500,2500,Cash,Mangaluru
+ORD0080,2025-12-06,Desk,Furniture,5,8000,40000,UPI,Chennai
+ORD0081,2025-06-17,Water Bottle,Lifestyle,3,800,2400,Cash,Chennai
+ORD0082,2025-08-04,Water Bottle,Lifestyle,2,500,1000,Cash,Mysuru
+ORD0083,2025-07-27,Mouse,Accessories,5,1200,6000,Net Banking,Bengaluru
+ORD0084,2025-08-09,Office Chair,Furniture,3,6100,18300,Net Banking,Coimbatore
+ORD0085,2025-08-15,Desk,Furniture,4,9600,38400,Credit Card,Kochi
+ORD0086,2025-02-13,Backpack,Accessories,2,2800,5600,Debit Card,Kochi
+ORD0087,2025-05-01,Mouse,Accessories,3,500,1500,Debit Card,Mumbai
+ORD0088,2025-01-24,Keyboard,Accessories,2,500,1000,Credit Card,Delhi
+ORD0089,2025-08-01,Mouse,Accessories,1,1700,1700,Net Banking,Mumbai
+ORD0090,2025-05-05,Notebook,Stationery,4,140,560,Credit Card,Bengaluru
+ORD0091,2025-04-01,Smartphone,Electronics,4,23200,92800,Net Banking,Delhi
+ORD0092,2025-03-04,Laptop,Electronics,5,57700,288500,Cash,Mysuru
+ORD0093,2025-11-01,Backpack,Accessories,5,2400,12000,Debit Card,Delhi
+ORD0094,2025-10-08,Mouse,Accessories,5,1600,8000,Cash,Mysuru
+ORD0095,2025-05-07,Backpack,Accessories,4,1500,6000,Debit Card,Kochi
+ORD0096,2025-08-14,Backpack,Accessories,2,1500,3000,UPI,Chennai
+ORD0097,2025-06-13,Keyboard,Accessories,3,1500,4500,Net Banking,Mangaluru
+ORD0098,2025-07-16,Headphones,Accessories,2,2200,4400,Credit Card,Mumbai
+ORD0099,2025-06-19,Smartphone,Electronics,4,32800,131200,Net Banking,Delhi
+ORD0100,2025-08-04,Notebook,Stationery,1,40,40,Cash,Coimbatore
